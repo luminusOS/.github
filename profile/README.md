@@ -9,7 +9,8 @@
 <br>
 <!--<a href="https://fosstodon.org/@luminusOS"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/108618426259408142?domain=https%3A%2F%2Ffosstodon.org">
 <a href="https://twitter.com/luminusOS"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/crystal_linux"></a>-->
-<p align="center"> Focus on what matters. Completely beginner friendly, easy to use, and powerful. Based on <a href="https://www.archlinux.org">Arch Linux</a>.</p>
+<p align="center"> Keep moving forward. Completely beginner friendly, easy to use, and powerful. </p>
+<p align="center"> GNOME · Arch Linux · Immutability · User Friendly</p>
 
 <h2 align="center"> Important Stuff </h2>
 
