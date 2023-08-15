@@ -4,8 +4,8 @@
   </a>
 </p>
 <p align="center">
-<a href="https://discord.gg/eVmXsqkvkw"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/76RR4VC45V> </a>
-<a href="https://github.com/luminusOS/.github/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="Code of conduct"></img></a>
+<a href="https://discord.gg/eVmXsqkvkw"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white&style=flat-square"?link=https://discord.gg/76RR4VC45V> </a>
+<a href="https://github.com/luminusOS/.github/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=flat-square" alt="Code of conduct"></img></a>
 <br>
 <!--<a href="https://fosstodon.org/@luminusOS"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/108618426259408142?domain=https%3A%2F%2Ffosstodon.org">
 <a href="https://twitter.com/luminusOS"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/crystal_linux"></a>-->
